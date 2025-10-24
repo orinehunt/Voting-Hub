@@ -68,3 +68,10 @@ h1 {
   text-align: center;
   margin-top: 30px;
 }
+@media (max-width: 768px) {
+  img {
+    height: 200px;
+  }
+  .photo-card {
+    width: 90%;
+  }
